@@ -1,0 +1,18 @@
+Que. How much space does following data types take ?
+
+int : 4 bytes 
+bool : 1 byte
+float : 4 byte
+
+Que: How many of these can be a variable name?
+ -> _FLOAT, FLOAT can be used as variable name.
+
+Que: What is the output of this program?
+-> OUTPUT: 6 4
+
+
+
+
+
+
+
